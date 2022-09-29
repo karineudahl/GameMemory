@@ -9,7 +9,7 @@ Live version of the game:
 - Practicing JavaScript
 - Hobby project for fun
 
-Built With 
+# Built With 
 - HTML
 - CSS 
 - JavaScript 
